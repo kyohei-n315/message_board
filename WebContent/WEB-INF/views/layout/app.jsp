@@ -4,6 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <title>メッセージボード</title>
+        <link rel="stylesheet" href="style.css" />
     </head>
     <body>
         <div id="wrapper">
